@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sourdough/batch/issues"
   },
-  "homepage": "https://github.com/sourdough/batch#readme"
+  "homepage": "https://github.com/sourdough/batch#readme",
+  "dependencies": {
+    "ingredient": "https://github.com/sourdough/ingredient.git#v0.0.2"
+  }
 }
