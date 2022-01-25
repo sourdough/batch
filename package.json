@@ -1,0 +1,19 @@
+{
+  "name": "batch",
+  "version": "0.0.1",
+  "description": "test git from npm scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'this project is one test scenario'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourdough/batch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourdough/batch/issues"
+  },
+  "homepage": "https://github.com/sourdough/batch#readme"
+}
